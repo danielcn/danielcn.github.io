@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "compile:sass": "node-sass source/stylesheets/index.scss build/stylesheets/index.css"
+  },
+  "dependencies": {
+    "sass": "^1.26.2"
+  },
+  "devDependencies": {
+    "node-sass": "^4.13.1"
+  }
+}
