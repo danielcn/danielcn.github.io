@@ -3,10 +3,10 @@
     "compile:sass": "node-sass source/stylesheets/index.scss build/stylesheets/index.css"
   },
   "dependencies": {
-    "react-scripts": "^3.4.1",
     "sass": "^1.26.2"
   },
   "devDependencies": {
-    "node-sass": "^4.13.1"
+    "node-sass": "^4.14.1",
+    "react-scripts": "^3.4.1"
   }
 }
