@@ -16,9 +16,9 @@ const Portifolio = () => {
         </nav>
 
         <div class="showcase-content">
-          <img src="https://themesbrand.com/zooki/layouts/images/home-2-img.png" />
-          <img src="static/images/geossit.png" />
-          <img src="static/images/curumin.png" />
+          <img src="https://themesbrand.com/zooki/layouts/images/home-2-img.png" alt="portifolio" />
+          <img src="static/images/geossit.png" alt="geossit" />
+          <img src="static/images/curumin.png" alt="curumim logistica" />
         </div>
       </div>
     </header>
