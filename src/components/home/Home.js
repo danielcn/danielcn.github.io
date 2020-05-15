@@ -1,12 +1,11 @@
 import React from 'react';
-import Menu from '../common/menu/Menu';
+// import Menu from '../common/menu/Menu';
 
 function Home() {
   return (
     <div className="App">		
 			<header className="showcase">
 				<div className="container">
-					<Menu />
 					<div className="showcase-content">
 						<div>
 							<h1>Make Your Idea Real</h1>

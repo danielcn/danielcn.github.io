@@ -5,6 +5,11 @@ import {
   Route,
 } from "react-router-dom";
 import Menu from "./components/common/menu/Menu";
+import About from './components/about/About'
+import Home from './components/home/Home'
+import Portifolio from './components/portiflio/Portiflio'
+import Service from './components/service/Service'
+
 
 export default function App() {
   return (
@@ -28,20 +33,4 @@ export default function App() {
       </div>
     </Router>
   );
-}
-
-function Home() {
-  return <h2>Home</h2>;
-}
-
-function About() {
-  return <h2>About</h2>;
-}
-
-function Service() {
-  return <h2>Service</h2>;
-}
-
-function Portifolio() {
-  return <h2>Portifolio</h2>;
 }

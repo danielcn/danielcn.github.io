@@ -1,11 +1,10 @@
 import React from 'react'
-import Menu from '../common/menu'
+// import Menu from '../common/menu'
 
 const Portifolio = () => {
   return(
     <header className="showcase">
       <div className="container">
-        <Menu />
         <div className="showcase-content">
           <img src="https://themesbrand.com/zooki/layouts/images/home-2-img.png" alt="portifolio" />
           <img src="static/images/geossit.png" alt="geossit" />
