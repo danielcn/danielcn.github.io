@@ -1,46 +1,21 @@
-import React from 'react';
+import React from "react";
 import {
   BrowserRouter as Router,
   Switch,
   Route,
-  Link
 } from "react-router-dom";
-import About from './components/about/About'
-import Home from './components/home/Home'
-import Portifolio from './components/portiflio/Portiflio'
-import Service from './components/service/Service'
+import Menu from "./components/common/menu/Menu";
 
-import './App.css';
-
-const App = () => {
+export default function App() {
   return (
     <Router>
+      <Menu />
       <div>
-        <nav>
-          <ul>
-            <li>
-              <Link to="/">Home</Link>
-            </li>
-            <li>
-              <Link to="/about">About</Link>
-            </li>
-            <li>
-              <Link to="/service">Services</Link>
-            </li>
-            <li>
-              <Link to="/portifolio">Portiflio</Link>
-            </li>
-            <li>
-              <Link to="/">Curriculum</Link>
-            </li>
-          </ul>
-        </nav>
-
         <Switch>
-          <Route path="/">
+          <Route path="/" exact>
             <Home />
           </Route>
-          <Route path="/about">
+          <Route path="/about" exact>
             <About />
           </Route>
           <Route path="/service">
@@ -55,4 +30,18 @@ const App = () => {
   );
 }
 
-export default App;
+function Home() {
+  return <h2>Home</h2>;
+}
+
+function About() {
+  return <h2>About</h2>;
+}
+
+function Service() {
+  return <h2>Service</h2>;
+}
+
+function Portifolio() {
+  return <h2>Portifolio</h2>;
+}
