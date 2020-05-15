@@ -3,10 +3,10 @@ import Menu from '../common/menu/Menu';
 
 const Service = () => {
   return(
-    <header class="showcase">
-			<div class="container">
+    <header className="showcase">
+			<div className="container">
         <Menu />
-				<div class="showcase-content">
+				<div className="showcase-content">
           Services
 				</div>
 			</div>
