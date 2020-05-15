@@ -18,7 +18,7 @@ function Home() {
 							<a href="#" className="btn-primary">Learn More</a>
 							<a href="#" className="btn-secondary">Sign Up</a>
 						</div>
-						<img src="https://themesbrand.com/zooki/layouts/images/home-2-img.png" />
+						<img src="https://themesbrand.com/zooki/layouts/images/home-2-img.png" alt="home"/>
 					</div>
 				</div>
 			</header>
