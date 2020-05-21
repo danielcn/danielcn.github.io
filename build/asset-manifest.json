@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/danielcn.github.io/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/danielcn.github.io/static/js/main.cfc07e58.chunk.js",
+    "main.js.map": "/danielcn.github.io/static/js/main.cfc07e58.chunk.js.map",
+    "runtime-main.js": "/danielcn.github.io/static/js/runtime-main.eda7982c.js",
+    "runtime-main.js.map": "/danielcn.github.io/static/js/runtime-main.eda7982c.js.map",
+    "static/js/2.98e46a10.chunk.js": "/danielcn.github.io/static/js/2.98e46a10.chunk.js",
+    "static/js/2.98e46a10.chunk.js.map": "/danielcn.github.io/static/js/2.98e46a10.chunk.js.map",
+    "index.html": "/danielcn.github.io/index.html",
+    "precache-manifest.c497d9b2bdd6ab641fd1d75dda84a25e.js": "/danielcn.github.io/precache-manifest.c497d9b2bdd6ab641fd1d75dda84a25e.js",
+    "service-worker.js": "/danielcn.github.io/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/danielcn.github.io/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.98e46a10.chunk.js.LICENSE.txt": "/danielcn.github.io/static/js/2.98e46a10.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eda7982c.js",
+    "static/js/2.98e46a10.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.cfc07e58.chunk.js"
+  ]
+}
