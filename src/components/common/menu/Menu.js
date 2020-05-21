@@ -12,7 +12,7 @@ const Menu = () => {
         <li><Link to="/about">About</Link></li>
         <li><Link to="/service">Services</Link></li>
         <li><Link to="/portifolio">Portifolio</Link></li>
-        <li><a href="https://www.linkedin.com/in/daniel-nascimento/" target="_blank">Curriculum</a></li>
+        <li><a href="https://www.linkedin.com/in/daniel-nascimento/" target="_blank" rel="noopener noreferrer">Curriculum</a></li>
       </ul>
     </nav>
   )
