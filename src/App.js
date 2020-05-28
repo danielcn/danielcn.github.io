@@ -10,6 +10,7 @@ import Home from './components/home/Home'
 import Portifolio from './components/portiflio/Portiflio'
 import Service from './components/service/Service'
 
+import './App.scss';
 
 export default function App() {
   return (
