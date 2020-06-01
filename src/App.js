@@ -6,11 +6,13 @@ import {
 } from "react-router-dom";
 import Menu from "./components/common/menu/Menu";
 import About from './components/about/About'
+import Article from "./components/article/Article";
 import Home from './components/home/Home'
 import Portifolio from './components/portiflio/Portiflio'
 import Service from './components/service/Service'
 
 import './App.scss';
+
 
 export default function App() {
   return (
@@ -20,6 +22,9 @@ export default function App() {
         <Switch>
           <Route path="/" exact>
             <Home />
+          </Route>
+          <Route path="/articles" exact>
+            <Article />
           </Route>
           <Route path="/about" exact>
             <About />
