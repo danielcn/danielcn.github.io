@@ -4,15 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Every day emerge fabulously and underestimated people in the world, some of whom perform different roles in our society. Some of them demonstrate the value of accomplishing contributions to humanity, just doing that. Others have pioneering and innovative thoughts about the future and how to build the next reality. A few who believe in community involvement and companies success. Some of them who is just available to help others to grow. All of them are surely meet urgent needs but happily contribute with their solution pieces for all humanity issues. /
+That said, please feel free to reach out, share your history, and build our pieces together.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
