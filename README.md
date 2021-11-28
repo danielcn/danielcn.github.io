@@ -1,3 +1,1 @@
-This projecti contais my personal blog
-
-
+This projecti contais my personal website
