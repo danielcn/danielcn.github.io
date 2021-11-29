@@ -28,6 +28,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:title/
 
+# Google Analytics web tracking code
+google_analytics: UA-25764030-1
+
+
 twitter_username: _danielajani
 github_username:  danielcn
 linkedin_username:  daniel-nascimento
@@ -36,6 +40,8 @@ linkedin_username:  daniel-nascimento
 theme: minima
 plugins:
   - jekyll-feed
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
