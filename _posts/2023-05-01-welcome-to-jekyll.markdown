@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  2023 - May readdigs"
+title:  2023 readdigs"
 date:   2023-05-01 22:26:35 -0300
 categories: jekyll update
 ---
@@ -18,6 +18,6 @@ print_hi('Daniel', true)
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
-For May I have these links as follow:
+For May monght, I have these links:
 [A complexa matemática que vai ajudar o Spotify a escolher sua próxima música favorita
  - Porguguese][https://mittechreview.com.br/a-complexa-matematica-que-vai-ajudar-o-spotify-a-escolher-sua-proxima-musica-favorita/].
