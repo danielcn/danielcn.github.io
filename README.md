@@ -1,1 +1,1 @@
-This projecti contais my personal website
+This project contais my personal website
